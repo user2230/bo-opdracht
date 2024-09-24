@@ -1,0 +1,18 @@
+img {
+    border-radius: 125px;
+    width: 250px;
+    height: 250px;
+   
+}
+td{
+    width: 300px;
+}
+article{
+  width: 40vw;
+  margin: auto;
+  padding: 80px;
+  background-color: antiquewhite;
+}
+body{
+  background-color: blanchedalmond; 
+} 
